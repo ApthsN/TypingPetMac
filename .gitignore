@@ -1,0 +1,17 @@
+# Build output
+build/
+
+# Private signing key and certificate — never commit
+signing/
+*.p12
+*.pem
+
+# Local logs
+debug.log
+
+# Character images: add your own locally (see images/README.md)
+images/*.png
+images/*.gif
+images/*.jpg
+
+.DS_Store
