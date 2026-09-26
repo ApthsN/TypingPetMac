@@ -12,3 +12,5 @@ Put your own PNG images here (transparent background recommended, all the same c
 | `1.png` | optional | When you press **1** |
 
 Images are not included in this repo. Only use images you drew yourself or have permission to use.
+
+The original character images are available in this [Google Drive folder](https://drive.google.com/drive/folders/1da-3jEGaK8cSDhahd9ijKUiewfrq0yf4). They belong to their artist — please give credit when you use or share them.
