@@ -1,5 +1,7 @@
 # 🐾 Typing Pet for Mac
 
+**by [@ApthsN](https://github.com/ApthsN)** · [MIT License](LICENSE)
+
 A tiny macOS desktop pet that reacts when you type: it raises its left and right hands in turn, bounces, and shows special images for chosen keys.
 
 Inspired by [swoonqx/TypingPet](https://github.com/swoonqx/TypingPet) (Windows only). This is an independent Swift app for macOS, not a port of its code.
@@ -79,3 +81,18 @@ Map a macOS key code to an image name in `images/`, then run `./build.sh`.
 
 A small log (keyboard-access status and a count of key presses, never which keys) is written to
 `~/Library/Logs/TypingPet.log`.
+
+## Credits
+
+- **Typing Pet for Mac** by [Aparpat Hattaphasu (@ApthsN)](https://github.com/ApthsN)
+- Inspired by [TypingPet](https://github.com/swoonqx/TypingPet) for Windows by [@swoonqx](https://github.com/swoonqx)
+
+If you use, modify or share this project, please keep the `LICENSE` file and credit:
+
+> Typing Pet for Mac by @ApthsN — https://github.com/ApthsN/TypingPetMac
+
+Character images are not part of this project and belong to their own artists.
+
+## License
+
+[MIT](LICENSE) © 2026 Aparpat Hattaphasu (@ApthsN)
