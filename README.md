@@ -91,9 +91,9 @@ If you use, modify or share this project, please keep the `LICENSE` file and cre
 
 > Typing Pet for Mac by @ApthsN — https://github.com/ApthsN/TypingPetMac
 
-- Character images: [Google Drive folder](https://drive.google.com/drive/folders/1da-3jEGaK8cSDhahd9ijKUiewfrq0yf4) — download `basic.png`, `Left.png`, `Right.png`, `space.png`, `T.png`, `1.png` into `images/` to use the same character.
+- Character art by [NW (@namwallF1 on X)](https://x.com/namwallF1) — images: [Google Drive folder](https://drive.google.com/drive/folders/1da-3jEGaK8cSDhahd9ijKUiewfrq0yf4) — download `basic.png`, `Left.png`, `Right.png`, `space.png`, `T.png`, `1.png` into `images/` to use the same character.
 
-Character images are not included in this repository and belong to their own artist. Please credit the artist when you share them.
+Character images are not included in this repository and belong to NW (@namwallF1). Please credit the artist when you share them.
 
 ## License
 
